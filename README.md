@@ -6,3 +6,6 @@ This repository contains the MATLAB scripts correponding to the closed-loop dyna
 This source code is distributed in the hope that it will be useful, but without any warranty.
 We do request that publications in which this testbed is adopted, explicitly acknowledge that fact by citing the corresponding paper/s.
 For further information do not hesitate to contact us.  
+
+The related publications and presentations are also publicaly available online:
+https://www.researchgate.net/project/Grid-Forming-Converter-Control-Design-Applications-in-Low-Inertia-Power-System
